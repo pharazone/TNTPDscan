@@ -1,0 +1,5 @@
+/adminLogin/admin_index.asp
+/adminLogin/admin_login.asp
+/adminLogin/index.asp
+/adminLogin/login.asp
+/admin_.asp
